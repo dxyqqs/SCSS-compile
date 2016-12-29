@@ -18,7 +18,8 @@
     "path":"search-result",
     "option":{ 
         "outputStyle":"expanded"
-    }
+    },
+    "autofixer":["> 5%", "IE 9"]
   }
   
 }
